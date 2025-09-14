@@ -1,1 +1,3 @@
+# Abdulqadir Anshur
+
 I am an Information Technology Infrastructure student at the University of Minnesota with interests in IT systems, cloud computing, cybersecurity, and software applications. Through coursework and projects, I am building skills in programming, networking, and system administration while gaining hands-on experience with tools such as Visual Studio Code, GitHub, Linux/Unix, and virtual machines. My goal is to pursue a career in the IT/ICT field where I can apply my problem-solving abilities, technical knowledge, and attention to detail to support organizations and develop effective technology solutions.
